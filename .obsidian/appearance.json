@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "textFontFamily": "나눔스퀘어 네오 OTF",
+  "enabledCssSnippets": [
+    "text-extend",
+    "color-extend"
+  ],
+  "translucency": false,
+  "interfaceFontFamily": "Pretendard",
+  "baseFontSize": 16
+}

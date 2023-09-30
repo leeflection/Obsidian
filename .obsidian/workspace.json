@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "9c9e481e50beeab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "264eddd032b92407",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "643bae664f60133c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "취업/내 정보.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "328ab35599284cc6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e9e452de877c34a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2345595b5c276294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f746fafe086ba14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3241f44c3962061",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22035b8f018ca41b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0659bd6b0b135f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "79f9cc467d01369b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdc7365f9319d87d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f68172d0104ef0bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7cb9c9991745afec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69f87e966d8aa292",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "328ab35599284cc6",
+  "lastOpenFiles": [
+    "Algorithm/치즈.md",
+    "０。File Repsitory/Pasted image 20230930155012.png",
+    "０。File Repsitory/Pasted image 20230930155001.png",
+    "Algorithm/거짓말.md",
+    "０。File Repsitory/Pasted image 20230930125644.png",
+    "Algorithm/꿀팁/이분탐색.md",
+    "Algorithm/내리막길.md",
+    "Algorithm/꿀팁/사이클.md",
+    "Algorithm/구슬 탈출 2.md",
+    "Java&Spring/GC.md",
+    "Java&Spring/Error & Exception.md",
+    "Java&Spring/JVM.md",
+    "Java&Spring/Reflection.md",
+    "취업/내 정보.md",
+    "０。File Repsitory/NanumSquareNeoOTF-Bd.otf",
+    "취업/NanumSquareNeoOTF-Bd.otf",
+    "Algorithm/욕심쟁이판다.md",
+    "０。File Repsitory/Pasted image 20230929175105.png",
+    "Algorithm/다리만들기.md",
+    "０。File Repsitory/Pasted image 20230929122833.png",
+    "０。File Repsitory/Pasted image 20230929122826.png",
+    "Algorithm/꿀팁/경로 추적.md",
+    "Algorithm/이진 검색 트리.md",
+    "Algorithm/숨바꼭질 4.md",
+    "０。File Repsitory/Pasted image 20230928195148.png",
+    "Algorithm/문제집.md",
+    "０。File Repsitory/Pasted image 20230928174557.png",
+    "Algorithm/최소비용 구하기.md",
+    "Algorithm/텀프로젝트.md",
+    "Algorithm/꿀팁",
+    "Algorithm/트리의 지름.md",
+    "Algorithm/특정한 최단경로.md",
+    "Algorithm/ACM Craft.md",
+    "Java&Spring/Synchronization.md",
+    "０。File Repsitory/Pasted image 20230928160157.png",
+    "Algorithm/무제 파일 1.md",
+    "Algorithm/벽 부수고 이동하기.md",
+    "０。File Repsitory/Pasted image 20230928125820.png",
+    "무제 파일.canvas",
+    "1. Project Info/PatPat",
+    "무제 파일 1.canvas",
+    "SQL Solve",
+    "취업",
+    "０。File Repsitory/Pretendard-Medium.otf",
+    "File Repsitory/Pretendard-Medium 1.otf",
+    "０。File Repsitory",
+    "Network"
+  ]
+}

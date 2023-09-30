@@ -1,0 +1,9 @@
+/* 행간 조절 */
+.cm-contentContainer {
+  line-height: 1.2;
+}
+
+/* 문단 간 간격 조절 */
+.markdown-source-view :is(.cm-line + .cm-line) {
+  padding-top: 0.5em !important;
+}
